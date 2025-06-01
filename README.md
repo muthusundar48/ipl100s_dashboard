@@ -29,7 +29,7 @@ The IPL has seen some thrilling centuries over the years. This dashboard breaks 
 
 ## 📸 Dashboard Preview
 
-*(ipl100s_dashboard.png)*
+*ipl100s_dashboard.png*
 
 ## 📁 How to Use
 
